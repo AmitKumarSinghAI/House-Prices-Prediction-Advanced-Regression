@@ -88,26 +88,6 @@ Multiple regression models were trained and evaluated:
 
 ---
 
-## 📈 How to Run the Project
-
-1. Clone the repository
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Install dependencies
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the notebook
-   ```bash
-   jupyter notebook house-prices-advanced-regression-techniques.ipynb
-   ```
-
-4. Run all cells sequentially
-
----
 
 ## 🏁 Kaggle Submission
 - Predictions were generated on the Kaggle test dataset
