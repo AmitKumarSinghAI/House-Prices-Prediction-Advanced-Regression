@@ -96,6 +96,4 @@ Multiple regression models were trained and evaluated:
   Id,SalePrice
   ```
 
--
-
 ⭐ **If you find this project useful, consider giving it a star!**
