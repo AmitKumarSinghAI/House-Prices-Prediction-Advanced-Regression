@@ -1,4 +1,4 @@
-## 🏡 House Prices Prediction – Advanced Regression
+# 🏡 House Prices Prediction – Advanced Regression
 
 A machine learning project to predict residential house prices in **Ames, Iowa** using advanced regression and ensemble learning techniques.  
 This project is based on the popular **Kaggle House Prices** dataset and focuses on proper preprocessing, model evaluation, and ensemble methods.
