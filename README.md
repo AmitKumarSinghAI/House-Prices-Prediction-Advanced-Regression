@@ -96,14 +96,6 @@ Multiple regression models were trained and evaluated:
   Id,SalePrice
   ```
 
----
-
-## 📌 Future Improvements
-- Advanced feature interactions
-- Bayesian hyperparameter optimization
-- LightGBM / CatBoost integration
-- Blending multiple stacked models
-
----
+-
 
 ⭐ **If you find this project useful, consider giving it a star!**
